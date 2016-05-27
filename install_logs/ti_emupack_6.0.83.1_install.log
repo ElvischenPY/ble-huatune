@@ -1,0 +1,1847 @@
+Log started 04/13/2016 at 16:01:14
+Preferred installation mode : win32
+Trying to init installer in mode win32
+Mode win32 successfully initialized
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] 
+[16:01:15] Beginning Installation of MSVC Redistributable Packages
+Preparing to Install
+Preparing to Install
+Creating directory C:\ti\ccs_base
+Creating directory C:\ti\ccs_base\common
+Creating directory C:\ti\ccs_base\common\bin
+Unpacking files
+Unpacking C:\ti\ccs_base\common\bin\ti_targetdb_parser.dll
+Creating directory C:\ti\ccs_base\common\IDE
+Creating directory C:\ti\ccs_base\common\IDE\breakpoint
+Creating directory C:\ti\ccs_base\common\IDE\breakpoint\NewBp
+Unpacking files
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETBreakpoint.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETBreakpoint5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETBreakpointARM.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETBreakpointARM11.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETChainBreakpoint.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETChainBreakpoint5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETContextBPA9.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETMacroblockBPiHWA.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCount.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCount5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvt.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvt_M3.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvt2x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvtA9.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvtA8.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvtRx.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountEvtARM11.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountGEM.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountWP.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCountWP2x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETProfileCycles.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETProfileCycles5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETSetAEGEVT.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETSetSCTM.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETSetSCTM.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETTrace.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETTrace5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchdog.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchdog5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpoint.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpoint2x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpoint5x.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpoint64.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpointARM.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpointARM_M3.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpointARM11.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETWatchpointICEC.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\STMTrace.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETCrossTrigger.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\UMRWatch.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETDWT.xml
+Unpacking C:\ti\ccs_base\common\IDE\breakpoint\NewBp\AETDataVarTrace_M3.xml
+Creating directory C:\ti\ccs_base\common\IDE\targetStatus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\cs_dap.xml
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\cs_dap_pc.xml
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\icepick_b.xml
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\icepick_c.xml
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\icepick_d.xml
+Unpacking C:\ti\ccs_base\common\IDE\targetStatus\router_access.cfg
+Creating directory C:\ti\ccs_base\common\targetdb
+Creating directory C:\ti\ccs_base\common\targetdb\boarddat
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\multi-icepick.dat
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\xds560tracepod.cfg
+Creating directory C:\ti\ccs_base\common\targetdb\cpus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cs_child.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\csetb.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\csstm.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\etb11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iLF.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iME.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_calc3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_ecd3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_ilf3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_ime3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_ipe3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva_mc3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\pru.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_calc5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_ecd5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_ilf5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_ime5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_ipe5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\iva2_mc5.xml
+Creating directory C:\ti\ccs_base\common\targetdb\drivers
+Creating directory C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\CS_DAP_0_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\CS_DAP_PC_0_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\ICEPick_C_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\ICEPick_D_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\regids.xsd
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2000_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2001_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2002_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2003_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2004_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2005_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2006_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2007_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2026_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2027_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2028_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2029_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2030_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2031_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS192C2032_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C28XX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C55XX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C64XX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C674X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C6XXX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R2X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R4X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R7X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R9X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470RCX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470RDX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470REX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470RAX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R15X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470R25X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS470RXX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS700C4X_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS700C40XX_regids.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS700C41XX_regids.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\cortexM4_fpu.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\55xx_EMU_Control.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\55xxNotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\64x+NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ARM_R2X_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ARMNotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\c6000RegisterPairs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\c66xx_control_registers.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\c66xx_hidden_registers.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA7_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA8_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA9_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA15_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexM3_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexM4_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexR4_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexM0_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cs_dap_NotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\CP14_ARM7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\CP15_ARM9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\etb_hidden_registers.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ICEPickCHidden.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ICEPickHidden.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\T16NotVisible.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\arp32_arch.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\arp32_control.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\arp32_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\arp32_shadow.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\cla_notvisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva_syncbox.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\pru_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\pru_notvisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\vcop_load_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\vcop_status_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\vcop_vector_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\ihwa_notvisible.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\calc5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\ecd5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\ime5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\ipe5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\lpf5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\mc5_target_db.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\icont5_cfg_targetdb.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_arp32\iva2_arp32_dummy.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_calc5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_calc5\calc5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_calc5\calc5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ecd5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ecd5\ecd5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ecd5\ecd5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ilf5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ilf5\lpf5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ilf5\lpf5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ime5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ime5\ime5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ime5\ime5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ipe5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ipe5\ipe5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_ipe5\ipe5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_mc5
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_mc5\mc5_debug.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\ihwa\iva2_mc5\mc5_target_db.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\cortexA7
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA7\cortexA7_CP14.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA7\cortexA7_CP15.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\cortexA8
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA8\cortexA8_CP15.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA8\cortexA8_CP14.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\cortexA9
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA9\cortexA9_CP14.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA9\cortexA9_CP15.xml
+Creating directory C:\ti\ccs_base\common\targetdb\Modules\cortexA15
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA15\cortexA15_CP14.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\cortexA15\cortexA15_CP15.xml
+Creating directory C:\ti\ccs_base\common\targetdb\routers
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\routers\cs_dap.xml
+Unpacking C:\ti\ccs_base\common\targetdb\routers\cs_dap_pc.xml
+Unpacking C:\ti\ccs_base\common\targetdb\routers\icepick_c.xml
+Unpacking C:\ti\ccs_base\common\targetdb\routers\icepick_d.xml
+Creating directory C:\ti\ccs_base\common\uscif
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\dbgjtag.exe
+Unpacking C:\ti\ccs_base\common\uscif\dtc_conf.exe
+Unpacking C:\ti\ccs_base\common\uscif\dtc_dataclient.dll
+Unpacking C:\ti\ccs_base\common\uscif\pro_dataclient.dll
+Unpacking C:\ti\ccs_base\common\uscif\swo_dataclient.dll
+Unpacking C:\ti\ccs_base\common\uscif\dtc_dataserver.out
+Unpacking C:\ti\ccs_base\common\uscif\pro_dataserver.out
+Unpacking C:\ti\ccs_base\common\uscif\dtc_top.jbc
+Unpacking C:\ti\ccs_base\common\uscif\dtc_topx16.jbc
+Unpacking C:\ti\ccs_base\common\uscif\dtc_top_legacy.jbc
+Unpacking C:\ti\ccs_base\common\uscif\xds560v2pro.xsvf
+Unpacking C:\ti\ccs_base\common\uscif\jioserdesusb.dll
+Unpacking C:\ti\ccs_base\common\uscif\jioserdesusbv3.dll
+Unpacking C:\ti\ccs_base\common\uscif\jioxds110.dll
+Unpacking C:\ti\ccs_base\common\uscif\jscserdes.dll
+Unpacking C:\ti\ccs_base\common\uscif\jscserdesv3.dll
+Unpacking C:\ti\ccs_base\common\uscif\jscxds110.dll
+Unpacking C:\ti\ccs_base\common\uscif\jtagdata.dll
+Unpacking C:\ti\ccs_base\common\uscif\jtagprobe.dll
+Unpacking C:\ti\ccs_base\common\uscif\tp_clientlib.dll
+Unpacking C:\ti\ccs_base\common\uscif\uscif.out
+Unpacking C:\ti\ccs_base\common\uscif\uscifv2.out
+Unpacking C:\ti\ccs_base\common\uscif\xds560.out
+Unpacking C:\ti\ccs_base\common\uscif\XDS560_ecom.dll
+Unpacking C:\ti\ccs_base\common\uscif\XDS560v1_ecom.dll
+Unpacking C:\ti\ccs_base\common\uscif\xds560v2.out
+Unpacking C:\ti\ccs_base\common\uscif\xds560v2_ecom.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsalias.cfg
+Unpacking C:\ti\ccs_base\common\uscif\xdsboard.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsecom3.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdserror.cfg
+Unpacking C:\ti\ccs_base\common\uscif\xdserror.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsfamily.cfg
+Unpacking C:\ti\ccs_base\common\uscif\xdsfast3.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsicicle.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsinitial.cfg
+Unpacking C:\ti\ccs_base\common\uscif\xdslocal.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdsroute.dll
+Unpacking C:\ti\ccs_base\common\uscif\xdstrove.dll
+Unpacking C:\ti\ccs_base\common\uscif\gdb_agent_console.exe
+Unpacking C:\ti\ccs_base\common\uscif\pat.exe
+Unpacking C:\ti\ccs_base\common\uscif\dbgauth.exe
+Creating directory C:\ti\ccs_base\common\uscif\xds110
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\xds110\boot_loader.axf
+Unpacking C:\ti\ccs_base\common\uscif\xds110\boot_loader.bin
+Unpacking C:\ti\ccs_base\common\uscif\xds110\firmware.bin
+Unpacking C:\ti\ccs_base\common\uscif\xds110\xdsdfu.exe
+Unpacking C:\ti\ccs_base\common\uscif\xds110\ReadMe.txt
+Unpacking C:\ti\ccs_base\common\uscif\xds110\eZ_FetDcdcController.txt
+Creating directory C:\ti\ccs_base\common\uscif\xds2xx
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\app_cpld.bin
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\ReadMe.txt
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\update_xds2xx.bat
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\xds200_cpld_v1006.xsvf
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\xds200_firmware_v1006.bin
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\xds2xx_conf.exe
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx\xds2xx_usbconf.dll
+Creating directory C:\ti\ccs_base\emulation
+Creating directory C:\ti\ccs_base\emulation\analysis
+Creating directory C:\ti\ccs_base\emulation\analysis\bin
+Creating directory C:\ti\ccs_base\emulation\analysis\bin\db
+Creating directory C:\ti\ccs_base\emulation\analysis\bin\logs
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\560trace_receiver_setup.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\AETOperationServer.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\AETProperties.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\AETPropertyHelper.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ArmDecoder.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ArmDeviceConfigManager.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\bin2tdf.exe
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\c6xinstr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\CT2xapi.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ct470api.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\CT6xapi.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ctools.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ctools_xmtr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\System_xmtr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\cTools2000.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\cToolsIF.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ctoolsndbg.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\EVEApi.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\iHWAApi.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DDriver.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\default_fns.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DeviceDataBaseUtility.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DeviceIdentifier.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DrishtiDataSource.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DrishtiFileChannelDriver.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DrishtiRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DspDeviceConfigManager.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DtcDataSource.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\DtcRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ProRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\EtbDataSource.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ETBRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ETBTDRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\etm_xmtr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\EtmHistTI.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\Etmv3HistTI.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\PtmHist.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\hdr2pinmap.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\IceCD.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ICETargetAdapter.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\OCPDecoderUnit.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\OCPDecoderUnitH08.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\pathinfo.ini
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ProgDataSrcCoff.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\Receiver_CFEOpts.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SCDecoderUnit.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SCDecoderUnit.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SetDecoder.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SetupAdapter4.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SMSETConverter.exe
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\startupcfg.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmCPTracerDecoder.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecodeUnitPreprocessor.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecodeUnitSoftwareMessage.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecoder.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecoderUnitClockProfiler.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecoderUnitDefault.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecoderUnitLoadLatency.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDecoderUnitPowerProfiler.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\StmDeviceConfigManager.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ItmDecoder.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ItmDWTDecodeUnit.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ItmSWDecodeUnit.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\td.exe
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\trace_client_config.txt
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\trace_server_config.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings_ETB.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings_STM.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings_PRO_Dsp.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings_PRO_Globals.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceCntrl_DefaultSettings_PRO_Stm.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceDecode.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceFactory.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceJNI.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\xds_ecom_server.exe
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TraceOperationServer.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\trgtconnectivity.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TsunamiRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\TwpDataSource.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SwoDataSource.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\SwoRcvr.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\xds560trace.jar
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\energytracestandalone.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\energytraceccs.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\JTrace.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\jtrace_patch.exe
+Creating directory C:\ti\ccs_base\emulation\analysis\bin\ofs
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ofs\tiofr11.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ofs\tiofr_tial.dll
+Creating directory C:\ti\ccs_base\emulation\analysis\xmldb
+Creating directory C:\ti\ccs_base\emulation\analysis\xmldb\aet_config
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\0.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\1000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\1003.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\10127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\2000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\20127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\2500.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\2600.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\28x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\3000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\3054.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\4000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\4701.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\47012.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\47013.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\47014.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\47010.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\4702.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\4703.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\5500.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\55127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\5600.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\56127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6211.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6410.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\64106.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6411.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6412.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\64127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6413.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6414.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6415.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6416.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6418.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6455.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\67104.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\674x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6711.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6713.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\6720.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\90100.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\66127.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\1500.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\19232.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\70064.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\70065.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property28x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property55.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property56.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property56_1.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property64.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property64Plus.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property64PlusPrimus.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property64PlusTesla.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property64PlusTomahawk.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property671x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property672x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyiHWA.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_7000000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_7000001.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_7001500.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_7003501.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_7054001.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9260010.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9260011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9261010.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9262011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9263011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9264011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9680010.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9680011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9681010.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_9683011.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_b360000.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_M3.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_M0.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM11.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM7.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM9.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARMAx.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARMA8.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARMRx.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCMG0.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCMG1.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_OMAP4.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_OMAP4E2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_TI814x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_TI814xEVE.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_TI816x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPMG.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_TI816x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_TI814x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySCTM.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySMSET.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySMSET_EVE.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_TI816x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_CentEVE.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\aetdvrs.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_OMAP4.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_TI816x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_TI814x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_TI814xEVE.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_Property2600.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_ShNy.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_SHNY.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCS_STM_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_keystone.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_C6638.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer_kepler.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer_sh8.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_GB.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFOMAP4460.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFOMAP4470.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyARM_M3_DWT.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_Subarctic.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFOMAP5430.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFOMAP5430ES2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCMG0_omap5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCMG1_omap5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCMG1_Vayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySCTM_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_Subarctic.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_GB1.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_OMAP4.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_ES21.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPMG_omap5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_OMAP5.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_TracerAppleton.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyEVE_ARP32.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer6657.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_Vayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_Vayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySCTM_IPU.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFVayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_Vayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_TI811x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_TI811x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_TI811x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_TI811x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_Aegis.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPF_Aegis.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_Aegis.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_AEGIS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_Aegis.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer_Lamarr.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer_Edison.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCP_Tracer_Galileo.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_Lamarr.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTI_Edison.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_Lamarr.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_Edison.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_J6ECO.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFJ6ECO.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_J6ECO.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\OCPType_2600_ADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyPPFADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyCTSET_ADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertySTM_ADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\aet_config\AET_PropertyOCP_ADAS.xml
+Creating directory C:\ti\ccs_base\emulation\analysis\xmldb\trace_config
+Creating directory C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_6488.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_arm9etb11.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_armetb11_generic.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c64xpcetb6.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c64xptetb.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_DA830XX.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_dm648.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_dm648.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_h3g.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap3630.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap2420.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap3430.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap4430_sdc.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap4430_ES2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap4430_ES21.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_F28M35H52C1.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_F28M36P36C2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_w3g.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_ti816x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_ti814x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_OMAPL13x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c66xx.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c66xx_turbo.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c6678.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_c6657.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap4460.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap4470.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap5430.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap5430ES2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap5432.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_omap5432ES2.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_subarctic.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_6614.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_am35x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_DM385.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_6455.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_conqueror.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_CentaurusEve.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_kepler.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_dm36x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_vayu.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_ti811x.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_stellaris.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_m4u.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_aegis.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_gladiator.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_edison.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_galileo.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_lamarr.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_ADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_ADAS.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_DRA7xx.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_j6eco.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_cc13xx.xml
+Unpacking C:\ti\ccs_base\emulation\analysis\xmldb\trace_config\devices\device_cc26xx.xml
+Creating directory C:\ti\ccs_base\emulation\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\cmapi.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\cmapi.out
+Unpacking C:\ti\ccs_base\emulation\drivers\TargetAdapter.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\prsc.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\dap.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\eti_dap.dll
+Creating directory C:\ti\ccs_base\emulation\drivers\ihwa
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\arp32_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_calc3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_ecd3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_ilf3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_ime3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_ipe3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva_mc3_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\pru_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_arp32_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_calc5_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_ecd5_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_ilf5_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_ime5_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_ipe5_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\iva2_mc5_info.xml
+Creating directory C:\ti\ccs_base\emulation\gel
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\gel\dasm_vcop.gel
+Creating directory C:\ti\ccs_base\emulation\tpi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\dasm_default.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\dasm_pru.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\dasm_vcop.exe
+Unpacking C:\ti\ccs_base\emulation\tpi\disassemble_capstone.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\disassemble_c6x.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\disassemble_arp32.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\disassemble_pru.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\step_arp32.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\step_default.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\step_pru.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi.ini
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi_cs_dap.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi_dap_pc.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi_icepick.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi_ihwa.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpietb.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpihwa.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpitrace.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\msvcp71.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\msvcr71.dll
+Creating directory C:\ti\ccs_base\emulation\tpi\xml
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008000.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008008.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008010.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008018.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008020.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008028.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080d0.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080d8.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080e0.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080e8.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080f0.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x300080f8.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008100.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x50019349.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x50019bf8.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x50019bf9.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x96001001.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x96001009.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x96001011.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x96001019.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x96001021.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf001001.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf001009.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf001011.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf001019.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf001021.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf010010.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0xaf010410.xml
+Creating directory C:\ti\ccs_base\emulation\windows
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\DPInst32.exe
+Unpacking C:\ti\ccs_base\emulation\windows\DPInst64.exe
+Unpacking C:\ti\ccs_base\emulation\windows\TI_Drivers_Cert.p7b
+Creating directory C:\ti\ccs_base\common\analysis
+Creating directory C:\ti\ccs_base\common\analysis\usecases
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Cache_Event_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Custom_Core_Trace.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Custom_PC_Trace.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Custom_System_Trace.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\DSP_Transaction_Logging.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Function_Profiling.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Memory_Transaction_Logging.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Memory_Throughput_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Memory_Throughput_and_Access_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\PC_Trace.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Pipeline_Stall_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Power_and_Clock_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Stall_Profiling_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Statistical_Function_Profiling.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\CodeCoverage.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Custom_Core_Trace_SWO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Custom_PC_Trace_SWO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Data_Variable_Tracing.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Interrupt_Profiling_Trace.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Statistical_Function_Profiling_SWO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\Eve_Analyzer.xml
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\receivers
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\ARM_ETB.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\DSP_ETB.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\DSP_MEM_ETB.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\DSP_PRO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\ARM_PRO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_560v2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_560v2_1Pin.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_ETB.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_MEM_ETB.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_PRO.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\STM_PRO_1Pin.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\receivers\ARM_SWO.xml
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\triggers
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\Empty.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\Function_Profiling_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\Function_Profiling_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\Function_Profiling_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\Function_Profiling_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\PC_Trace_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\PC_Trace_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\PC_Trace_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\PC_Trace_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\DWT_Data_Variable_Trace_Job.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\DWT_Interrupt_Profiling_Job.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ARM\DWT_PC_Sampling_Job.xml
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_L1D.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_L1P.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_NonCacheable.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Empty.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Function_Profiling_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Function_Profiling_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Function_Profiling_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Function_Profiling_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Function_Profiling_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\PC_Trace_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\PC_Trace_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\PC_Trace_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\PC_Trace_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\PC_Trace_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Pipeline_Stall_Analysis.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\MFENCE_Workaround.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Event_MFENCE_Workaround.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Statistical_Profiling_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Cache_Event_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Stall_Profiling_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Stall_Profiling_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Stall_Profiling_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Stall_Profiling_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\Stall_Profiling_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\SysBios_CurrentTask_Trigger.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\DSP\SysBios_ThreadType_Trigger.xml
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\AM335x_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6614_CP_Memory_Throughput_Analysis_Job9.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6616_CP_Memory_Throughput_Analysis_Job9.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6657_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job10.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job11.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job12.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job13.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6678_CP_Memory_Throughput_Analysis_Job9.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Transaction_Logging_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job10.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job11.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job12.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job13.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job14.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\C6638_CP_Memory_Throughput_Analysis_Job9.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job8.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Lamarr_CP_Memory_Throughput_Analysis_Job9.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Transaction_Logging_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Galileo_CP_Memory_Transaction_Logging_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job5.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job6.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Edison_CP_Memory_Throughput_Analysis_Job7.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Galileo_CP_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Galileo_CP_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Empty.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP44xx_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP44xx_SC_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP44xx_SC_Power_and_Clock_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP44xx_SC_Power_and_Clock_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP44xx_SC_Power_and_Clock_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\TI814x_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\TI814x_SC_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP54xx_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP54xx_SC_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP54xx_SC_Power_and_Clock_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP54xx_SC_Power_and_Clock_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\OMAP54xx_SC_Power_and_Clock_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_SC_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_SC_Power_and_Clock_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_SC_Power_and_Clock_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_System_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_System_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_System_Analysis_Job3.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\Vayu_System_Analysis_Job4.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\TI811x_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\TI816x_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\TI816x_SC_Memory_Throughput_Analysis_Job2.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\AM43x_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\J6ECO_SC_Memory_Throughput_Analysis_Job1.xml
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\STM\ADAS_LOW_SC_Memory_Throughput_Analysis_Job1.xml
+Creating directory C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ITM
+Unpacking files
+Unpacking C:\ti\ccs_base\common\analysis\usecases\emu\triggers\ITM\Empty.xml
+Creating directory C:\ti\ccs_base\emulation\analysis\bin\stune
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\stune\stune.exe
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\stune\argtable2.dll
+Creating directory C:\ti\ccs_base\emulation\doc
+Creating directory C:\ti\ccs_base\emulation\doc\manifests
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\doc\manifests\EMU_Software_1.0_Manifest.html
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\LogoVerificationReport.pdf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\ftd2xx.h
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\ftdibus.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\ftdibus.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\ftdiport.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\ftdiport.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\dpinst32.exe
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\dpinst64.exe
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftd2xx64.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftserui2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\amd64\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftd2xx.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftserui2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\i386\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\Static
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\Static\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\Static\amd64\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\Static\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\ftdi_208\Static\i386\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\icdi
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmdfu64.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmusbdll64.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmusbicdi64.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmdfu64.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmusbdll64.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\lmusbicdi64.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\amd64\WUDFUpdate_01009.dll
+Creating directory C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmdfu.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmusbdll.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmusbicdi.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmdfu.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmusbdll.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\lmusbicdi.lib
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\i386\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\drivers\stellaris\icdi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\boot_usb.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\boot_usb_amd64.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\boot_usb_x86.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_com.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_com_amd64.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_com_x86.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_debug.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_debug_amd64.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\stellaris_icdi_debug_x86.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\dpinst32.exe
+Unpacking C:\ti\ccs_base\emulation\drivers\stellaris\icdi\dpinst64.exe
+Creating directory C:\ti\ccs_base\DebugServer
+Creating directory C:\ti\ccs_base\DebugServer\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\DebugServer\drivers\DebugLib.dll
+Unpacking C:\ti\ccs_base\DebugServer\drivers\FTCJTAG.dll
+Creating directory C:\ti\ccs_base\emulation\drivers\CC3200
+Creating directory C:\ti\ccs_base\emulation\drivers\CC3200\ftdi
+Creating directory C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftd2xx64.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftserui2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\amd64\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftd2xx.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftserui2.dll
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\i386\ftd2xx.lib
+Directory already exists: C:\ti\ccs_base\emulation\drivers\CC3200\ftdi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\ftdibus.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\ftdibus.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\ftdiport.cat
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\ftdiport.inf
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\install_cert.bat
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\ti3.p7b
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\dpinst32.exe
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\ftdi\dpinst64.exe
+Directory already exists: C:\ti\ccs_base\emulation\drivers\CC3200
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\dpinst64.exe
+Unpacking C:\ti\ccs_base\emulation\drivers\CC3200\dpinst32.exe
+Directory already exists: C:\ti\ccs_base\common\bin
+Unpacking files
+Unpacking C:\ti\ccs_base\common\bin\xerces-c_2_8.dll
+Directory already exists: C:\ti\ccs_base\common\targetdb\cpus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c28xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cla.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cla1.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\Modules
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\C28xNotVisible.xml
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\CLA0NotVisible.xml
+Directory already exists: C:\ti\ccs_base\emulation\drivers\ihwa
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\cla_info.xml
+Unpacking C:\ti\ccs_base\emulation\drivers\ihwa\cla1_info.xml
+Directory already exists: C:\ti\ccs_base\emulation\tpi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\dasm_cla.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\disassemble_ank.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi28xx.dll
+Directory already exists: C:\ti\ccs_base\emulation\tpi\xml
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008030.xml
+Unpacking C:\ti\ccs_base\emulation\tpi\xml\proc_0x30008038.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\cpus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c55xx.xml
+Directory already exists: C:\ti\ccs_base\emulation\tpi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\tpi55xx.dll
+Directory already exists: C:\ti\ccs_base\common\targetdb\boarddat
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\560withc64x.cfg
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\DA7xxUlkd.cfg
+Directory already exists: C:\ti\ccs_base\common\targetdb\cpus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c620x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c621x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c646x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c64xp.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c64xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c66xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c670x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c671x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c672x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\c674x.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\TI_reg_ids\TMS320C66XX_regids.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\Modules
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\Modules\c646xRegisterPairs.xml
+Directory already exists: C:\ti\ccs_base\emulation\gel
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\gel\TNET48xx_DAP_init.gel
+Directory already exists: C:\ti\ccs_base\emulation\tpi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\tpic6x.dll
+Creating directory C:\ti\ccs_base\common\targetdb\boards
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\boards\evmdmrx45x.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\cpus
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_abt_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_allbanked_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_fiq_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_irq_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_mon_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_svc_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_und_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_user_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm_hyp_mode_regs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\arm9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_a7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_a8.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_a9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_a15.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_m3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_m4.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_r4.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_r5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_m0.xml
+Unpacking C:\ti\ccs_base\common\targetdb\cpus\cortex_m0p.xml
+Creating directory C:\ti\ccs_base\common\targetdb\devices
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\devices\arm7.xml
+Directory already exists: C:\ti\ccs_base\emulation\gel
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\gel\CortexM3_util.gel
+Unpacking C:\ti\ccs_base\emulation\gel\CortexR4_util.gel
+Unpacking C:\ti\ccs_base\emulation\gel\evmdrx45x_arm.gel
+Unpacking C:\ti\ccs_base\emulation\gel\J1DDR_Si.gel
+Unpacking C:\ti\ccs_base\emulation\gel\tms470.gel
+Directory already exists: C:\ti\ccs_base\emulation\tpi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\tpi\tpiarm.dll
+Unpacking C:\ti\ccs_base\emulation\tpi\tpiarm_x.dll
+Directory already exists: C:\ti\ccs_base\common\targetdb\boarddat
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\omap2430.cfg
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\omap3430_adaptive.cfg
+Unpacking C:\ti\ccs_base\common\targetdb\boarddat\omap3430_slowclk.cfg
+Directory already exists: C:\ti\ccs_base\emulation\gel
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\gel\c64xplus_CrossTrigger.gel
+Unpacking C:\ti\ccs_base\emulation\gel\CortexA8_CrossTrigger.gel
+Unpacking C:\ti\ccs_base\emulation\gel\cortexA8_util.gel
+Unpacking C:\ti\ccs_base\emulation\gel\etm_cortexA8_registers.gel
+Creating directory C:\ti\ccs_base\common\targetdb\connections
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100usb_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100v2_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100v3_Dot7_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS110_Connection.xml
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftd2xx.lib
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftd2xx64.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftserui2.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\DPInst32.exe
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\DPInst64.exe
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftd2xx.h
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdibus.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdibus.inf
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdiport.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdiport.inf
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftd2xx.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftd2xx.lib
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftserui2.dll
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\amd64\ftd2xx.lib
+Creating directory C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\i386\ftd2xx.lib
+Directory already exists: C:\ti\ccs_base\common\uscif
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\xds100serial.exe
+Creating directory C:\ti\ccs_base\emulation\windows\xds110_drivers
+Creating directory C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\WUDFUpdate_01009.dll
+Creating directory C:\ti\ccs_base\emulation\windows\xds110_drivers\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds110_drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_debug.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_debug.inf
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_ports.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_ports.inf
+Creating directory C:\ti\ccs_base\emulation\windows\do_not_install
+Creating directory C:\ti\ccs_base\emulation\windows\do_not_install\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\WUDFUpdate_01009.dll
+Creating directory C:\ti\ccs_base\emulation\windows\do_not_install\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\do_not_install
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_debug.cat
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_debug.inf
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_ports.cat
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_ports.inf
+Directory already exists: C:\ti\ccs_base\common\targetdb\connections
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100usb_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100v2_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS100v3_Dot7_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS110_Connection.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c28x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c55x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c646x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c64xp.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c66xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100c674x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100cla.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100cla1.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100cs_dap.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100etbcs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100csstm.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100icepick_c.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100icepick_d.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2arm7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2arm9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c28x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c55x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c64x_11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c646x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c64xp.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c66xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2c674x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cla.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cla1.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexA7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexA.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexA9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexA15.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexM.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexM0.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cortexR.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cs_child.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2cs_dap.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2dap_pc.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2etb11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2etbcs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2icepick_c.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2icepick_d.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iLF.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iME.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2pru.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2csstm.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_calc5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_ecd5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_ilf5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_ime5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_ipe5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds100v2iva2_mc5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds28x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510arm7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510arm9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c28x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c55x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c646x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c64xp.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c66xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510c674x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cla.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cla1.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexA.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexA9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexA7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexA15.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexM.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexM0.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cortexR.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cs_child.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510cs_dap.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510dap_pc.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510etb11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510etbcs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510csstm.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510icepick_c.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510icepick_d.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510iLF.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510iME.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds510pru.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds55x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds6000.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds6400_11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds6400_plus.xml
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftd2xx.lib
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftd2xx64.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\amd64\ftserui2.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\DPInst32.exe
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\DPInst64.exe
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftd2xx.h
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdibus.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdibus.inf
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdiport.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\ftdiport.inf
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftbusui.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftcserco.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftd2xx.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftd2xx.lib
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftdibus.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftlang.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftser2k.sys
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\i386\ftserui2.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\amd64\ftd2xx.lib
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds100_drivers\ftdi\Static\i386\ftd2xx.lib
+Directory already exists: C:\ti\ccs_base\common\uscif
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\xds100serial.exe
+Directory already exists: C:\ti\ccs_base\emulation\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds28x.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510arm7.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510arm9.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexA.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexA7.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexA9.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexA15.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexM.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexM0.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cortexR.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510cs_dap.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510sec_ap.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510dap_pc.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510etb11.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510etbcs.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510csstm.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510icepick_c.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510icepick_d.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510ihwa.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510iLF.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510iME.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds510pru.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds55x.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds6000.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds6400_11.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds6400_plus.dvr
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\amd64\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds110_drivers\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\i386\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds110_drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_debug.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_debug.inf
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_ports.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds110_drivers\xds110_ports.inf
+Directory already exists: C:\ti\ccs_base\emulation\windows\do_not_install\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\amd64\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\do_not_install\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\WdfCoInstaller01009.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\winusbcoinstaller2.dll
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\i386\WUDFUpdate_01009.dll
+Directory already exists: C:\ti\ccs_base\emulation\windows\do_not_install
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_debug.cat
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_debug.inf
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_ports.cat
+Unpacking C:\ti\ccs_base\emulation\windows\do_not_install\xdsicdi_ports.inf
+Directory already exists: C:\ti\ccs_base\common\targetdb\connections
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS560_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS560_Rev_D_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS560_Rev_BD_Dot7_Connection.xml
+Directory already exists: C:\ti\ccs_base\common\targetdb\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560arm7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560arm9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c28x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c55x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c646x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c64x_11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c64xp.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c66xx.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c674x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560c6x.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cla.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cla1.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexA.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexA7.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexA9.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexA15.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexM.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexM0.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cortexR.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cs_child.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560cs_dap.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560csstm.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560dap_pc.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560etb11.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560etbcs.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560icepick_c.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560icepick_d.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iLF.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iME.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_calc3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_ecd3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_ilf3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_ime3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_ipe3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva_mc3.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560pru.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_arp32.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_calc5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_ecd5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_ilf5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_ime5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_ipe5.xml
+Unpacking C:\ti\ccs_base\common\targetdb\drivers\tixds560iva2_mc5.xml
+Directory already exists: C:\ti\ccs_base\emulation\drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560arm7.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560arm9.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560c28x.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560c55x.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560c64x_11.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560c64x_plus.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560c6x.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexA.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexA7.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexA9.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexA15.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexM.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexM0.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cortexR.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560cs_dap.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560sec_ap.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560csstm.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560dap_pc.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560etb11.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560etbcs.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560icepick_c.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560icepick_d.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560ihwa.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560iLF.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560iME.dvr
+Unpacking C:\ti\ccs_base\emulation\drivers\tixds560pru.dvr
+Creating directory C:\ti\ccs_base\emulation\windows\xds560_drivers
+Creating directory C:\ti\ccs_base\emulation\windows\xds560_drivers\i386
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds560_drivers\i386\xds560.sys
+Creating directory C:\ti\ccs_base\emulation\windows\xds560_drivers\amd64
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds560_drivers\amd64\xds560.sys
+Directory already exists: C:\ti\ccs_base\emulation\windows\xds560_drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds560_drivers\xds560.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds560_drivers\xds560.inf
+Directory already exists: C:\ti\ccs_base\common\targetdb\connections
+Unpacking files
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS2XXUSB_Connection.xml
+Unpacking C:\ti\ccs_base\common\targetdb\connections\TIXDS2XXUSB_onboard_Connection.xml
+Directory already exists: C:\ti\ccs_base\common\uscif
+Unpacking files
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx.bin
+Unpacking C:\ti\ccs_base\common\uscif\xds2xxu_io.dll
+Unpacking C:\ti\ccs_base\common\uscif\xds2xxopts.cfg
+Unpacking C:\ti\ccs_base\common\uscif\xds2xx_ecom.dll
+Unpacking C:\ti\ccs_base\common\uscif\XDS560_ecom.dll
+Creating directory C:\ti\ccs_base\emulation\windows\xds2xx_drivers
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\windows\xds2xx_drivers\xds2xx_usb_cmp.cat
+Unpacking C:\ti\ccs_base\emulation\windows\xds2xx_drivers\xds2xx_usb_cmp.inf
+Directory already exists: C:\ti\ccs_base\emulation\analysis\bin
+Unpacking files
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\CToolsTraceScripting.dll
+Unpacking C:\ti\ccs_base\emulation\analysis\bin\ctoolsTraceScripting.jar
+Creating directory C:\ti\ccs_base\scripting
+Creating directory C:\ti\ccs_base\scripting\bin
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\bin\trace_dss.bat
+Creating directory C:\ti\ccs_base\scripting\docs
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\allclasses-frame.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\allclasses-noframe.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\constant-values.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\deprecated-list.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\help-doc.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\index.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\index-all.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\overview-tree.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\package-list
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\stylesheet.css
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\CToolsTraceChannel.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\CToolsTraceChannelStatus.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\CToolsTraceServer.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\CToolsTraceTrigger.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\package-frame.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\package-summary.html
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\com\ti\ctoolstrace\scripting\package-tree.html
+Creating directory C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\resources
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\docs\CTOOLTRACE_API\resources\inherit.gif
+Creating directory C:\ti\ccs_base\scripting\examples
+Creating directory C:\ti\ccs_base\scripting\examples\CtoolTrace
+Creating directory C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp\End_Trace.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp\Start_Trace.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp\Trace_Event.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp\Trace_InRange.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\C64xp\Trace_On.xml
+Creating directory C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\Faraday0_560T_ETB_BH_Test.js
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\go.bat
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\Omap3430_ETB_BH_Test.js
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\Omap4430_STM_ETB_Tes.js
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\Faraday_DSP_PRO_Test.js
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Examples\Faraday_DSP_SD560V2_PRO.bat
+Creating directory C:\ti\ccs_base\scripting\examples\CtoolTrace\Faraday
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Faraday\autotest.out
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Faraday\Faraday_BH.ccxml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Faraday\Faraday_xds560v2usb.ccxml
+Creating directory C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430
+Unpacking files
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\EMIF0_A9_Read.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\EMIF0_A9_Write.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\EMIF1_A9_Read.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\EMIF1_A9_Write.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\omap4430_SD_STM_USB.ccxml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\omap4430_SD_STM_USB_receiver_setup_4MB_1pin.cfg
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\omap4430_SD_STM_USB_receiver_setup_4MB_1pin.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\SC_EMIF0.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\SC_EMIF1.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\Stm_SW.xml
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\StmExample_CortexA9.out
+Unpacking C:\ti\ccs_base\scripting\examples\CtoolTrace\Omap4430\TraceCntrl_Spectrum_Digital_XDS560V2_STM_USB_Emulator_0CSSTM_0_560V2.xml
+Creating directory C:\ti\ccs_base\eclipse
+Creating directory C:\ti\ccs_base\eclipse\features
+Creating directory C:\ti\ccs_base\eclipse\features\com.ti.ccstudio.emu.6.0.83.1
+Unpacking files
+Unpacking C:\ti\ccs_base\eclipse\features\com.ti.ccstudio.emu.6.0.83.1\feature.xml
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] 
+[16:01:47] Completed Installation of MSVC Redistributable Packages
+[16:01:48] Preparing for Post Installation Actions...
+Running Post Install Steps
+[16:01:53] Creating Install Script Directory
+[16:01:53] Copying Install Scripts
+[16:01:53] Installing cToolsProf Man-page
+[16:01:53] Running Driver Certificate Pre-Install
+Executing certutil.exe -addstore "TrustedPublisher" "C:\ti/ccs_base/emulation/windows/TI_Drivers_Cert.p7b"
+Script exit code: 0
+
+Script output:
+ TrustedPublisher
+相关证书:
+
+精确匹配:
+元素 15:
+序列号: 5200e5aa2556fc1a86ed96c9d44b33c7
+颁发者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2010/2/8 星期一 8:00
+ NotAfter: 2020/2/8 星期六 7:59
+使用者: CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+非根证书
+模板: 
+证书哈希(sha1): 49 58 47 a9 31 87 cf b8 c7 1f 84 0c b7 b4 14 97 ad 95 c6 4f
+
+证书 "CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US" 已经在存储中。
+签名与公钥匹配
+相关证书:
+
+精确匹配:
+元素 14:
+序列号: 18dad19e267de8bb4a2158cdcc6b3b4a
+颁发者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2006/11/8 星期三 8:00
+ NotAfter: 2036/7/17 星期四 7:59
+使用者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+签名与公钥匹配
+根证书: 使用者与颁发者匹配
+模板: 
+证书哈希(sha1): 4e b6 d5 78 49 9b 1c cf 5f 58 1e ad 56 be 3d 9b 67 44 a5 e5
+
+证书 "CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US" 已经在存储中。
+相关证书:
+
+精确匹配:
+元素 1:
+序列号: 39ad63d2f5c9efdc46d734ae5e381b8f
+颁发者: CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2014/2/26 星期三 8:00
+ NotAfter: 2017/2/26 星期日 7:59
+使用者: CN=Texas Instruments Incorporated, OU=Digital ID Class 3 - Microsoft Software Validation v2, O=Texas Instruments Incorporated, L=Dallas, S=Texas, C=US
+非根证书
+模板: 
+证书哈希(sha1): ee 0c 8b a0 18 ce 92 64 32 c3 cc 23 52 3a 34 07 3d 01 95 4a
+
+证书 "CN=Texas Instruments Incorporated, OU=Digital ID Class 3 - Microsoft Software Validation v2, O=Texas Instruments Incorporated, L=Dallas, S=Texas, C=US" 已经在存储中。
+CertUtil: -addstore 命令成功完成。
+
+Script stderr:
+ 
+
+[16:01:54] Running XDS100 Driver Installer
+Executing C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds100_drivers/ftdi"
+Script exit code: 512
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds100_drivers/ftdi": Program ended with an error exit code
+[16:01:56] Running XDS560 Driver Installer
+Executing C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds560_drivers"
+Script exit code: 256
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds560_drivers": Program ended with an error exit code
+[16:01:56] Running XDS2xx Driver Installer
+Executing C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds2xx_drivers"
+Script exit code: 256
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds2xx_drivers": Program ended with an error exit code
+[16:01:57] Running XDS110 Driver Installer
+Executing C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /D /U "C:\ti/ccs_base/emulation/windows/do_not_install/xdsicdi_debug.inf"
+Script exit code: unknown signal
+
+Script output:
+ 
+
+Script stderr:
+ child killed: unknown signal
+
+Error running C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /D /U "C:\ti/ccs_base/emulation/windows/do_not_install/xdsicdi_debug.inf": child killed: unknown signal
+Executing C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds110_drivers"
+Script exit code: 512
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/windows/DPInst64.exe /SE /SW /SA /PATH "C:\ti/ccs_base/emulation/windows/xds110_drivers": Program ended with an error exit code
+[16:01:59] Patching JTrace.dll
+Executing jtrace_patch.exe 
+Script exit code: 1
+
+Script output:
+ Current working directory is C:/ti/ccs_base/emulation/analysis/bin
+ccs_base_dir = C:/ti/ccs_base
+common
+DebugServer
+eclipse
+emulation
+scripting
+Latest dvt_ version detected: 0.0.0.0.
+Error: No dvt_ directories found in CCS installation.
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running jtrace_patch.exe : Program ended with an error exit code
+Executing C:\ti/ccs_base/emulation/drivers/stellaris/icdi/dpinst64.exe /lm /sw
+Script exit code: 768
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/drivers/stellaris/icdi/dpinst64.exe /lm /sw: Program ended with an error exit code
+Executing C:\ti/ccs_base/emulation/drivers/stellaris/ftdi_208/dpinst64.exe /lm /sw
+Script exit code: 512
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/drivers/stellaris/ftdi_208/dpinst64.exe /lm /sw: Program ended with an error exit code
+Executing C:\ti/ccs_base/emulation/drivers/cc3200/ftdi/install_cert.bat 
+Script exit code: 0
+
+Script output:
+ TrustedPublisher
+相关证书:
+
+精确匹配:
+元素 15:
+序列号: 5200e5aa2556fc1a86ed96c9d44b33c7
+颁发者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2010/2/8 星期一 8:00
+ NotAfter: 2020/2/8 星期六 7:59
+使用者: CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+非根证书
+模板: 
+证书哈希(sha1): 49 58 47 a9 31 87 cf b8 c7 1f 84 0c b7 b4 14 97 ad 95 c6 4f
+
+证书 "CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US" 已经在存储中。
+签名与公钥匹配
+相关证书:
+
+精确匹配:
+元素 14:
+序列号: 18dad19e267de8bb4a2158cdcc6b3b4a
+颁发者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2006/11/8 星期三 8:00
+ NotAfter: 2036/7/17 星期四 7:59
+使用者: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU=(c) 2006 VeriSign, Inc. - For authorized use only, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+签名与公钥匹配
+根证书: 使用者与颁发者匹配
+模板: 
+证书哈希(sha1): 4e b6 d5 78 49 9b 1c cf 5f 58 1e ad 56 be 3d 9b 67 44 a5 e5
+
+证书 "CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US" 已经在存储中。
+相关证书:
+
+精确匹配:
+元素 4:
+序列号: 558c8cedb57ce54fa6fb351fb84b222f
+颁发者: CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O=VeriSign, Inc., C=US
+ NotBefore: 2014/4/15 星期二 8:00
+ NotAfter: 2015/4/17 星期五 7:59
+使用者: CN=Texas Instruments, OU=WCS, O=Texas Instruments, L=Dallas, S=Texas, C=US
+非根证书
+模板: 
+证书哈希(sha1): c7 6e 48 8a fc 11 5a d0 9d a6 69 cb e4 13 31 6f e5 6e 94 38
+
+证书 "CN=Texas Instruments, OU=WCS, O=Texas Instruments, L=Dallas, S=Texas, C=US" 已经在存储中。
+CertUtil: -addstore 命令成功完成。
+
+Script stderr:
+ 
+
+Executing C:\ti/ccs_base/emulation/drivers/cc3200/dpinst64.exe /sw /sa /path "C:\ti/ccs_base/emulation/drivers/cc3200/ftdi"
+Script exit code: 512
+
+Script output:
+ 
+
+Script stderr:
+ Program ended with an error exit code
+
+Error running C:\ti/ccs_base/emulation/drivers/cc3200/dpinst64.exe /sw /sa /path "C:\ti/ccs_base/emulation/drivers/cc3200/ftdi": Program ended with an error exit code
+Creating Uninstaller
+Creating uninstaller 25%
+Creating uninstaller 50%
+Creating uninstaller 75%
+Creating uninstaller 100%
+Installation completed
+Log finished 04/13/2016 at 16:02:11

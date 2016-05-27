@@ -1,0 +1,45 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[XdsDriver]
+CStepIntDis=_ 0
+xds100serialNo=0607ZFQN
+xds100foundProbes=
+xdsResetStyle=0
+xdsResetStrategy=3
+[RecentFlashDownload]
+Path=C:\ti\simplelink\ble_cc26xx_2_01_01_44627\Projects\ble\BloodPressure\CC26xx\IAR\Stack\CC2640\CC2640Stack.dep
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[DebugChecksum]
+Checksum=-599633609
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=160
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

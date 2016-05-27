@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>BIM_extflash/FlashOnly_SensorTag</Project><Project>CC2650Stack/FlashROM</Project><Project>CC2650App/FlashOnly</Project></CurrentConfigs><CurrentProj>CC2650App</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>218</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    </Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19979-31958</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/BIM_extflash</ExpandedNode><ExpandedNode>&lt;ws&gt;/CC2650App</ExpandedNode><ExpandedNode>&lt;ws&gt;/CC2650App/Drivers</ExpandedNode><ExpandedNode>&lt;ws&gt;/CC2650Stack</ExpandedNode><ExpandedNode>BIM_extflash</ExpandedNode><ExpandedNode>BIM_extflash/Application</ExpandedNode><ExpandedNode>BIM_extflash/Ext Flash</ExpandedNode><ExpandedNode>BIM_extflash/Output</ExpandedNode><ExpandedNode>BIM_extflash/SPI</ExpandedNode><ExpandedNode>BIM_extflash/TOOLS</ExpandedNode><ExpandedNode>CC2650App</ExpandedNode><ExpandedNode>CC2650App/Application</ExpandedNode><ExpandedNode>CC2650App/Board</ExpandedNode><ExpandedNode>CC2650App/Drivers</ExpandedNode><ExpandedNode>CC2650App/Drivers/I2C</ExpandedNode><ExpandedNode>CC2650App/Drivers/PIN</ExpandedNode><ExpandedNode>CC2650App/Drivers/SPI</ExpandedNode><ExpandedNode>CC2650App/Drivers/UDMA</ExpandedNode><ExpandedNode>CC2650App/Startup</ExpandedNode><ExpandedNode>CC2650Stack</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\Application\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>60</YPos2><SelStart2>3215</SelStart2><SelEnd2>3215</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-001C5AF8><key>iaridepm.enu1</key></Toolbar-001C5AF8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>911</Bottom><Right>292</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>209205</sizeHorzCY><sizeVertCX>153125</sizeVertCX><sizeVertCY>955021</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

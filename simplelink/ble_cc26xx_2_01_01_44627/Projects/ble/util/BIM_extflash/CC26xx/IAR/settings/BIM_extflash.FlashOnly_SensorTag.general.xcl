@@ -1,0 +1,17 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armxds2.dll" 
+
+"C:\ti\simplelink\ble_cc26xx_2_01_01_44627\Projects\ble\util\BIM_extflash\CC26xx\IAR\FlashOnly_SensorTag\Exe\BIM_ext.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\TexasInstruments\CC26xx.dmac" 
+
+--macro "C:\ti\simplelink\ble_cc26xx_2_01_01_44627\Projects\ble\util\BIM_extflash\CC26xx\IAR\..\..\..\common\cc26xx\IAR\IAR.mac" 
+
+--flash_loader "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\TexasInstruments\FlashCC26xxF128RAM20.board" 
+
+
+
+

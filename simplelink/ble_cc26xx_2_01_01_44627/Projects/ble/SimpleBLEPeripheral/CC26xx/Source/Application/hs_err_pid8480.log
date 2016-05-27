@@ -1,0 +1,269 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x0f50ffff, pid=8480, tid=5752
+#
+# JRE version: 6.0_37-b06
+# Java VM: Java HotSpot(TM) Client VM (20.12-b01 mixed mode windows-x86 )
+# Problematic frame:
+# C  0x0f50ffff
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0b453000):  VMThread [stack: 0x1ada0000,0x1b730000] [id=5752]
+
+siginfo: ExceptionCode=0xc0000005, ExceptionInformation=0x00000008 0x0f50ffff
+
+Registers:
+EAX=0x1db13463, EBX=0x1b72fae4, ECX=0x1db1346b, EDX=0x758b0000
+ESP=0x1b72f9fc, EBP=0x1b72fa18, ESI=0x2671ec80, EDI=0x26752c98
+EIP=0x0f50ffff, EFLAGS=0x00010297
+
+Top of Stack: (sp=0x1b72f9fc)
+0x1b72f9fc:   6d8584a8 2671ec80 1b72fae4 0c359e30
+0x1b72fa0c:   1b72fae4 0c35d15c 0c35f178 1b72fa2c
+0x1b72fa1c:   6d851e11 1b72fae4 0c35d100 00000001
+0x1b72fa2c:   1b72fa44 6d84f745 1b72fae4 00000000
+0x1b72fa3c:   0c35d100 1b72facc 1b72fb3c 6d84a477
+0x1b72fa4c:   00000000 1b72fb0c 1b72fae4 0c35d400
+0x1b72fa5c:   6d84b05a 0c35d158 0c35d100 0b451908
+0x1b72fa6c:   1b010100 0b3f3d90 00000000 00000000 
+
+Instructions: (pc=0x0f50ffff)
+0x0f50ffdf:   46 46 46 46 20 20 2f 2f 20 55 6e 73 75 65 64 20
+0x0f50ffef:   49 4f 20 49 64 0d 0a 0d 0a 23 64 65 66 69 6e 65
+0x0f50ffff:   20 49 4f 43 5f 49 4f 49 44 5f 4d 41 53 4b 20 20
+0x0f51000f:   20 20 20 20 20 20 20 20 20 30 78 30 30 30 30 30 
+
+
+Register to memory mapping:
+
+EAX=0x1db13463 is an Interpreter codelet
+return entry points  [0x1db12700, 0x1db13cb0]  5552 bytes
+EBX=0x1b72fae4 is an unknown value
+ECX=0x1db1346b is an Interpreter codelet
+return entry points  [0x1db12700, 0x1db13cb0]  5552 bytes
+EDX=0x758b0000 is an unknown value
+ESP=0x1b72f9fc is an unknown value
+EBP=0x1b72fa18 is an unknown value
+ESI=0x2671ec80 is an oop
+
+[error occurred during error reporting (printing register info), id 0xc000001d]
+
+Stack: [0x1ada0000,0x1b730000],  sp=0x1b72f9fc,  free space=9790k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  0x0f50ffff
+C  0x6d851e11
+C  0x6d84f745
+C  0x6d84a477
+C  0x6d850748
+C  0x6d84835b
+C  0x6d92c087  JVM_Clone+0x7b957
+C  0x6d90e543  JVM_Clone+0x5de13
+C  0x6d90d80e  JVM_Clone+0x5d0de
+C  0x6d90db32  JVM_Clone+0x5d402
+C  0x6d90df42  JVM_Clone+0x5d812
+C  0x6d93209c  JVM_FindSignal+0x539c
+C  0x7c36b381  endthreadex+0xa0
+C  [kernel32.dll+0x1338a]  BaseThreadInitThunk+0x12
+C  [ntdll.dll+0x39902]  RtlInitializeExceptionChain+0x63
+C  [ntdll.dll+0x398d5]  RtlInitializeExceptionChain+0x36
+
+VM_Operation (0x00d3d00c): GenCollectForAllocation, mode: safepoint, requested by thread 0x0c358c00
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x0c358c00 JavaThread "Thread-0" [_thread_blocked, id=8488, stack(0x003b0000,0x00d40000)]
+  0x0b46e000 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=6704, stack(0x36910000,0x372a0000)]
+  0x0b468c00 JavaThread "C1 CompilerThread0" daemon [_thread_blocked, id=8004, stack(0x35db0000,0x36740000)]
+  0x0b467c00 JavaThread "Attach Listener" daemon [_thread_blocked, id=6396, stack(0x35230000,0x35bc0000)]
+  0x0b465c00 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=8732, stack(0x346b0000,0x35040000)]
+  0x0b458800 JavaThread "Finalizer" daemon [_thread_blocked, id=9876, stack(0x1c710000,0x1d0a0000)]
+  0x0b457400 JavaThread "Reference Handler" daemon [_thread_blocked, id=10136, stack(0x33b70000,0x34500000)]
+
+Other Threads:
+=>0x0b453000 VMThread [stack: 0x1ada0000,0x1b730000] [id=5752]
+  0x0b492800 WatcherThread [stack: 0x373f0000,0x37d80000] [id=10176]
+
+VM state:at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x0c357548] Threads_lock - owner thread: 0x0b453000
+[0x0c3579a0] Heap_lock - owner thread: 0x0c358c00
+
+Heap
+ def new generation   total 16640K, used 14848K [0x1fb10000, 0x20d10000, 0x25060000)
+  eden space 14848K, 100% used [0x1fb10000, 0x20990000, 0x20990000)
+  from space 1792K,   0% used [0x20990000, 0x20990000, 0x20b50000)
+  to   space 1792K, 100% used [0x20b50000, 0x20d10000, 0x20d10000)
+ tenured generation   total 36848K, used 23499K [0x25060000, 0x2745c000, 0x2fb10000)
+   the space 36848K,  63% used [0x25060000, 0x26752c98, 0x26752e00, 0x2745c000)
+ compacting perm gen  total 12288K, used 7973K [0x2fb10000, 0x30710000, 0x33b10000)
+   the space 12288K,  64% used [0x2fb10000, 0x302d9610, 0x302d9800, 0x30710000)
+No shared spaces configured.
+
+Code Cache  [0x1db10000, 0x1ddb0000, 0x1fb10000)
+ total_blobs=1126 nmethods=979 adapters=82 free_code_cache=30808832 largest_free_block=64
+
+Dynamic libraries:
+0x00210000 - 0x002c4000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\IarIdePm.exe
+0x77c30000 - 0x77db0000 	C:\Windows\SysWOW64\ntdll.dll
+0x75820000 - 0x75930000 	C:\Windows\syswow64\kernel32.dll
+0x76060000 - 0x760a7000 	C:\Windows\syswow64\KERNELBASE.dll
+0x77210000 - 0x77310000 	C:\Windows\syswow64\USER32.dll
+0x76d90000 - 0x76e20000 	C:\Windows\syswow64\GDI32.dll
+0x75ac0000 - 0x75aca000 	C:\Windows\syswow64\LPK.dll
+0x770e0000 - 0x7717d000 	C:\Windows\syswow64\USP10.dll
+0x77030000 - 0x770dc000 	C:\Windows\syswow64\msvcrt.dll
+0x77480000 - 0x77521000 	C:\Windows\syswow64\ADVAPI32.dll
+0x77780000 - 0x77799000 	C:\Windows\SysWOW64\sechost.dll
+0x75f10000 - 0x76000000 	C:\Windows\syswow64\RPCRT4.dll
+0x75580000 - 0x755e0000 	C:\Windows\syswow64\SspiCli.dll
+0x75570000 - 0x7557c000 	C:\Windows\syswow64\CRYPTBASE.dll
+0x76130000 - 0x76d7b000 	C:\Windows\syswow64\SHELL32.dll
+0x75a60000 - 0x75ab7000 	C:\Windows\syswow64\SHLWAPI.dll
+0x57e10000 - 0x57f8d000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\IdeFramework.dll
+0x73b00000 - 0x73b1a000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\XmlLib.dll
+0x12000000 - 0x121d0000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\xerces-c_3_1.dll
+0x59870000 - 0x59913000 	C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.4940_none_50916076bcb9a742\MSVCR90.dll
+0x59750000 - 0x597de000 	C:\Windows\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.4940_none_50916076bcb9a742\MSVCP90.dll
+0x59650000 - 0x59674000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\CrashRpt1402.dll
+0x77530000 - 0x7768d000 	C:\Windows\syswow64\ole32.dll
+0x754a0000 - 0x754a9000 	C:\Windows\system32\VERSION.dll
+0x579d0000 - 0x57d6c000 	C:\Windows\WinSxS\x86_microsoft.vc90.mfc_1fc8b3b9a1e18e3b_9.0.30729.1_none_dcc7eae99ad0d9cf\mfc90.dll
+0x71a10000 - 0x71bae000 	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+0x72480000 - 0x72485000 	C:\Windows\system32\MSIMG32.dll
+0x760f0000 - 0x76125000 	C:\Windows\syswow64\WS2_32.dll
+0x75e80000 - 0x75e86000 	C:\Windows\syswow64\NSI.dll
+0x74dc0000 - 0x74dfc000 	C:\Windows\system32\MSWSOCK.dll
+0x760e0000 - 0x760e5000 	C:\Windows\syswow64\PSAPI.DLL
+0x75930000 - 0x75990000 	C:\Windows\system32\IMM32.DLL
+0x75990000 - 0x75a5c000 	C:\Windows\syswow64\MSCTF.dll
+0x72850000 - 0x728d0000 	C:\Windows\system32\UxTheme.dll
+0x727a0000 - 0x727b3000 	C:\Windows\system32\dwmapi.dll
+0x734c0000 - 0x734c9000 	C:\Windows\WinSxS\x86_microsoft.vc90.mfcloc_1fc8b3b9a1e18e3b_9.0.30729.1_none_da4695fc507e16e1\MFC90CHS.DLL
+0x6c8b0000 - 0x6c8b5000 	C:\Windows\system32\shfolder.dll
+0x73b30000 - 0x73b34000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\IdeFramework.ENU.dll
+0x58020000 - 0x58107000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\IarIdePm.ENU.dll
+0x760d0000 - 0x760db000 	C:\Windows\syswow64\profapi.dll
+0x10000000 - 0x1008f000 	C:\Program Files (x86)\kbasesrv\knb3rdhmpg.dll
+0x723e0000 - 0x7241c000 	C:\Windows\system32\OLEACC.dll
+0x72d50000 - 0x72d9c000 	C:\Windows\system32\apphelp.dll
+0x02d60000 - 0x03268000 	C:\Windows\system32\SOGOUPY.IME
+0x718d0000 - 0x718f1000 	C:\Windows\system32\ntmarta.dll
+0x77180000 - 0x771c5000 	C:\Windows\syswow64\WLDAP32.dll
+0x730a0000 - 0x730b7000 	C:\Windows\system32\CRYPTSP.dll
+0x734d0000 - 0x7365c000 	D:\Program Files\SogouInput\Components\PicFace\1.0.0.1403\PicFace.dll
+0x75ad0000 - 0x75b5f000 	C:\Windows\syswow64\OLEAUT32.dll
+0x72e40000 - 0x72e7b000 	C:\Windows\system32\rsaenh.dll
+0x72490000 - 0x7249e000 	C:\Windows\system32\RpcRtRemote.dll
+0x063c0000 - 0x0649d000 	D:\Program Files\SogouInput\7.9.0.7574\Resource.dll
+0x595f0000 - 0x59650000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\LogWindow.dll
+0x73b20000 - 0x73b25000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\LogWindow.ENU.dll
+0x57890000 - 0x579c6000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\TextEditor.dll
+0x57f90000 - 0x58018000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\BrowseInfo.dll
+0x59830000 - 0x5983b000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\PbiRdWr.dll
+0x572a0000 - 0x57887000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\libclang.dll
+0x746e0000 - 0x747cb000 	C:\Windows\system32\dbghelp.dll
+0x77320000 - 0x7746b000 	C:\Windows\syswow64\urlmon.dll
+0x76d80000 - 0x76d84000 	C:\Windows\syswow64\api-ms-win-downlevel-ole32-l1-1-0.dll
+0x77c00000 - 0x77c04000 	C:\Windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+0x771d0000 - 0x771d5000 	C:\Windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+0x77200000 - 0x77204000 	C:\Windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll
+0x77310000 - 0x77314000 	C:\Windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll
+0x75b60000 - 0x75b63000 	C:\Windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+0x77470000 - 0x77473000 	C:\Windows\syswow64\normaliz.DLL
+0x755e0000 - 0x75814000 	C:\Windows\syswow64\iertutil.dll
+0x76e20000 - 0x7702d000 	C:\Windows\syswow64\WININET.dll
+0x760b0000 - 0x760c7000 	C:\Windows\syswow64\USERENV.dll
+0x59850000 - 0x5985b000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\TextEditor.ENU.dll
+0x068f0000 - 0x06992000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\SciLexer.dll
+0x57d70000 - 0x57e0f000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\FindInFiles.dll
+0x596a0000 - 0x596a4000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\FindInFiles.ENU.dll
+0x57110000 - 0x5729f000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\ProjectManagerGui.dll
+0x75e90000 - 0x75f0b000 	C:\Windows\syswow64\COMDLG32.dll
+0x56ed0000 - 0x57106000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\ProjectManagerEngine.dll
+0x727c0000 - 0x727c7000 	C:\Windows\system32\WSOCK32.dll
+0x59820000 - 0x59826000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\ProjectManagerEngine.ENU.dll
+0x59590000 - 0x595e4000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\ProjectManagerGui.ENU.dll
+0x56d90000 - 0x56ed0000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm.dll
+0x56d60000 - 0x56d82000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm.ENU.dll
+0x56cc0000 - 0x56d5e000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_angel.dll
+0x59690000 - 0x59696000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_angel.ENU.dll
+0x56c10000 - 0x56cba000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_cmsisdap.dll
+0x73e40000 - 0x73e47000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_cmsisdap.ENU.dll
+0x56ad0000 - 0x56b6b000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_gdbserv.dll
+0x73e30000 - 0x73e36000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_gdbserv.ENU.dll
+0x56b90000 - 0x56c08000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_iarrom.dll
+0x73e20000 - 0x73e26000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_iarrom.ENU.dll
+0x56970000 - 0x56a1e000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_iJet.dll
+0x73e10000 - 0x73e17000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_iJet.ENU.dll
+0x56a20000 - 0x56ac7000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_jlink.dll
+0x696b0000 - 0x696b7000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_jlink.ENU.dll
+0x568d0000 - 0x5696c000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_lmiftdi.dll
+0x67d20000 - 0x67d26000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_lmiftdi.ENU.dll
+0x56820000 - 0x568c1000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_macraigor.dll
+0x64980000 - 0x64986000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_macraigor.ENU.dll
+0x56780000 - 0x56820000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_PEMicro.dll
+0x5d790000 - 0x5d796000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_PEMicro.ENU.dll
+0x56700000 - 0x56776000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_rdi.dll
+0x5d780000 - 0x5d786000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_rdi.ENU.dll
+0x56660000 - 0x56700000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_stlink.dll
+0x5d770000 - 0x5d776000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_stlink.ENU.dll
+0x565e0000 - 0x56654000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_thirdparty.dll
+0x5d760000 - 0x5d766000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_thirdparty.ENU.dll
+0x56530000 - 0x565d6000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_XDS100.dll
+0x5b490000 - 0x5b497000 	D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\swtdarm_XDS100.ENU.dll
+0x73a70000 - 0x73af4000 	C:\Windows\System32\hhctrl.ocx
+0x75b70000 - 0x75d0d000 	C:\Windows\syswow64\SETUPAPI.dll
+0x776c0000 - 0x776e7000 	C:\Windows\syswow64\CFGMGR32.dll
+0x771e0000 - 0x771f2000 	C:\Windows\syswow64\DEVOBJ.dll
+0x777a0000 - 0x77823000 	C:\Windows\syswow64\CLBCatQ.DLL
+0x71910000 - 0x71a05000 	C:\Windows\system32\propsys.dll
+0x07130000 - 0x07150000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\ICUEncodingDetector.dll
+0x4a900000 - 0x4aa89000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\icuin44.dll
+0x07e60000 - 0x07f80000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\icuuc44.dll
+0x4ad00000 - 0x4ad03000 	D:\PROGRA~1\IARSYS~1\EMBEDD~1.3\common\bin\icudt44.dll
+0x74ed0000 - 0x74ed8000 	C:\Windows\system32\netbios.dll
+0x74e30000 - 0x74e40000 	C:\Windows\system32\NLAapi.dll
+0x74e20000 - 0x74e30000 	C:\Windows\system32\napinsp.dll
+0x74e00000 - 0x74e12000 	C:\Windows\system32\pnrpnsp.dll
+0x74d70000 - 0x74db4000 	C:\Windows\system32\DNSAPI.dll
+0x74d60000 - 0x74d68000 	C:\Windows\System32\winrnr.dll
+0x751a0000 - 0x751bc000 	C:\Windows\system32\IPHLPAPI.DLL
+0x75190000 - 0x75197000 	C:\Windows\system32\WINNSI.DLL
+0x72e80000 - 0x72eb8000 	C:\Windows\System32\fwpuclnt.dll
+0x74c60000 - 0x74c66000 	C:\Windows\system32\rasadhlp.dll
+
+VM Arguments:
+jvm_args: -Xverify:none -DXDCPATH=C:/ti/tirtos_simplelink_2_13_00_06/products/bios_6_42_00_08/packages -Dxdc.root=C:/ti/xdctools_3_31_01_33_core -Djava.library.path=D:/Program Files (x86)/IAR Systems/Embedded Workbench 7.3/arm/plugins/rtos/TI-RTOS -Dconfig.rootDir=C:/ti/xdctools_3_31_01_33_core -Dconfig.gopts= vfprintf exit abort 
+java_command: <unknown>
+Launcher Type: generic
+
+Environment Variables:
+PATH=C:\ti\ccs_base\common\uscif;C:\ti\ccs_base\common\bin;C:\ti\ccs_base\emulation\drivers;D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\;C:\SiliconLabs\Optical_Sensors\Si114x\executable;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Python27;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\Python27;C:\Program Files (x86)\Dev-Cpp\MinGW64\bin;
+USERNAME=Elvis
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 , 64 bit Build 7601 Service Pack 1
+
+CPU:total 4 (4 cores per cpu, 1 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt
+
+Memory: 4k page, physical 4065300k(1195428k free), swap 8128744k(2542552k free)
+
+vm_info: Java HotSpot(TM) Client VM (20.12-b01) for windows-x86 JRE (1.6.0_37-b06), built on Sep 24 2012 12:44:35 by "java_re" with MS VC++ 7.1 (VS2003)
+
+time: Wed May 18 14:39:30 2016
+elapsed time: 104170 seconds
+

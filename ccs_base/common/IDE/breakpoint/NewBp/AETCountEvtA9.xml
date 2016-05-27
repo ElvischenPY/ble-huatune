@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<newBreakpoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="schema.xsd" name="Count Event" breakpointType="1">
+  <targets>
+    <target>
+      <type>dsk,emu</type>
+      <familyId>470</familyId>
+      <subfamilyId>9,15</subfamilyId>
+      <revision>*</revision>
+    </target>
+  </targets>
+  <defaultProperty>
+    <property name="Miscellaneous.Name" value="Count Event" />
+    <property name="Hardware Configuration.Type" value="Count Event"></property>
+  </defaultProperty>
+  <submitSequence>
+    <id>Hardware Configuration.Type.Event to Count</id>
+  </submitSequence>
+  <showIn>
+    <breakpointView autoSubmit="false" />
+  </showIn>
+  <dialog colCount="2">
+    <label id="label_CTC" widthHint="100" heightHint="15" verticalAlign="center">
+      <text>Event to Count:</text>
+    </label>
+    <comboBox id="Hardware Configuration.Type.Event to Count" widthHint="150" heightHint="15">
+      <text>Clock Cycles</text>
+      <choices>
+ 	  <item>Clock Cycles</item>
+        <item>ICache miss</item>
+        <item>TLB miss on IFetch</item>
+        <item>DCache miss</item>
+        <item>DCache access</item>
+        <item>TLB miss on Daccess</item>
+        <item>Dread executed</item>
+        <item>DWrite executed</item>
+        <item>Exception Taken</item>
+        <item>Exception Return executed</item>
+        <item>Change to ContextID retired</item>
+        <item>Software Change of PC</item>
+        <item>B,BL and(or) BLX Immediate</item>
+        <item>Unaligned Access Executed</item>
+        <item>Branch Mispredicted(not predicted)</item>
+        <item>Branches</item>
+        <item>Additional(0x60-Instruction Cache dependent stalls)</item>
+        <item>Additional(0x61-Data Cache dependent stalls)</item>
+	  <item>Additional(0x62-TLB miss dependent stalls)</item>
+	  <item>Additional(0x63-STREX passed)</item>
+	  <item>Additional(0x64-STREX failed)</item>
+	  <item>Additional(0x65-Data eviction)</item>
+	  <item>Additional(0x66-Instruction executed)</item>
+	  <item>Additional(0x67-Instruction decoded)</item>
+	  <item>Additional(0x70-Main execution unit instruction)</item>
+	  <item>Additional(0x71-Second execution unit instruction)</item>
+      </choices>
+    </comboBox>
+  </dialog>
+</newBreakpoint>
